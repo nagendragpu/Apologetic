@@ -1,3 +1,3 @@
 # Apologetic
 
-Simple webiste to showcase the use of bootsrap,css,javascript
+Simple website to showcase the use of bootsrap,css,javascript
